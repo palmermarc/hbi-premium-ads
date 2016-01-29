@@ -1,0 +1,15 @@
+#adpanel { width: 810px; margin: 50px auto 0; }
+#adpanel .adpanel_tabs { margin: 0; padding: 0; width: 175px; float: left; background: #2f343b; }
+#adpanel li { display: block; }
+#adpanel li.active a { background: #e65f4a; border-right: 0; color: #fff; opacity: 1; }
+#adpanel li a { padding: 10px; display: block; color: white; cursor: pointer; border: 0; opacity: .8; outline: none; text-decoration: none; -webkit-transition: background ease-in-out 0.2s , padding ease-in-out 0.2s; -moz-transition: background ease-in-out 0.2s , padding ease-in-out 0.2s; -o-transition: background ease-in-out 0.2s , padding ease-in-out 0.2s; transition: background ease-in-out 0.2s , padding ease-in-out 0.2s; }
+
+#adpanel-content { background: #FFF; padding: 20px 20px 50px; float: right; width: 595px; box-shadow: inset 0px 0px 1px #666; -moz-box-shadow: inset 0px 0px 1px #666; -webkit-box-shadow: inset 0px 0px 1px #666; min-height: 673px; position: relative; overflow: hidden; }
+#adpanel-content .adpanel-submit { float: right; }
+
+#adpanel-content .adpanel-item .form-table tr { clear: both; padding: 7px 10px; overflow: hidden; position: relative; }
+#hbipa-takeover-background-settings table input { margin-left: 15px; }
+#hbipa-takeover-background-settings #background_image { width: 65%; }
+#hbipa-takeover-background-settings p label { font-weight: bold; }
+#hbipa-takeover-background-settings .upload_image_button { display: inline-block; }
+#hbipa-takeover-background-settings .datepicker { width: 90px; }
